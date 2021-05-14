@@ -1,0 +1,6 @@
+Design the game Hangman, in which the user guesses letters in a hidden word. Store the letters of a word in an array of characters or String. Display a dash for each missing letter. Allow the user to continuously guess a letter until all the letters in the word are guessed correctly. As the user enters each guess, display the word again, filling in the guessed letter if it was correct. For example, if the hidden word is computer, first display a series of eight dashes: - - - - - - - -. After the user guesses p, the display becomes - - -p- - - -. Make sure that when a user makes a correct guess, all the matching letters are filled in. For example, if the word is banana and the user guesses a, all three a characters should be filled in. Use Object-Oriented design! 
+
+Optional advanced feature:
+
+Display a graphical hangman. Keep adding to the stick figure as the user makes incorrect guesses. You can determine how many guesses to give the user, but the minimum is 6 for a head, body, 2 legs, and 2
+arms. 
